@@ -1,0 +1,21 @@
+.group{
+	margin-bottom:15px;
+}
+
+.group .button{
+    border:none;
+	padding:15px 0px;
+	border-radius:25px;
+	background:rgba(14, 209, 218, 0.2);
+	color: #bf3c1b;
+	font-size: 16px;
+    background:rgba(14, 209, 218, 0.2);
+    cursor: pointer;
+    width : 100px;
+}
+
+.group .button:hover,
+.group .button:active{
+    width: 150px;
+    background:rgba(67, 219, 226, 0.45);
+}
